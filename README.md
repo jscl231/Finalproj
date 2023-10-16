@@ -9,3 +9,5 @@ I wanted to create this map as to help with our citywide goal of encouraging the
 #### How was it created?
 
 First, I found our town using the google satellite xyz tile. Next, I created a temporary scratch layer and added the attribute table for green spaces.  I edited this layer and added a polygon feature.  I selected multiple points to outline each green space and labeled them accordingly. I also added a north marker, scale bar, and legend.
+
+(http://127.0.0.1:5501/Index.html)
